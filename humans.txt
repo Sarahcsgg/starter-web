@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+		Sarah Guimarães sarah@git.trainning  @sarahcsgg
 
 # THANKS
 
