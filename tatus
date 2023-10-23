@@ -1,33 +1,24 @@
-* [33m7430661[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Adding conflicting changes(on purpose) for Git example
-*   [33m3f16dfc[m Mergeing changes from simples-changes branch
-[32m|[m[33m\[m  
-[32m|[m * [33mefe81c1[m Adding team member to humans.txt
-* [33m|[m [33m15da54e[m Adding instructions on how to contibute
-[33m|[m[33m/[m  
-* [33m25f9428[m Adding copyright notice to Readme
-* [33mc16e19a[m Adding copyright notice
-* [33m7a55a05[m Changing title of HTML file
-* [33m881c9b9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Updating repo with changes from compare section
-* [33m18970b8[m Adding description
-* [33m001bdaf[m Adding new section: Deployment
-* [33m5c46de0[m Adding README file
-* [33m244c60f[m Excluding log file directory
-* [33m254d139[m Adding git ignore file to exclude unwanted
-* [33mb5163c7[m Deleting level 1 and all children
-* [33mfef1464[m deleted hipster.txt file
-* [33mfc3e4b9[m Deleting new file
-* [33m873361c[m commiting level2
-* [33m23e6bec[m renaming level1 file
-* [33m5ad005f[m moving the file
-* [33m6352689[m Hello world!
-* [33m429f53d[m Adding several files recursively
-* [33mebbd05d[m More ipsum for hipsters
-* [33m5f5ae84[m Adding new file
-* [33mafa2383[m Adding more ipsum text
-* [33mce66f2e[m My first commi
-*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
-[34m|[m[35m\[m  
-[34m|[m * [33me73f914[m Adding Purpose section to README
-[34m|[m * [33m34f563b[m Adding README file
-[34m|[m[34m/[m  
-* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 6e6677c..2302241 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,6 +1,6 @@[m
+ # Starter Web Project[m
+ [m
+[31m-This is a simple website project for showing how to use Git and Github together. Adding a line for rebasing example.[m
+[32m+[m[32mThis is a simple website project for showing how to use Git and Github together. Adding a line for rebasing example, then more changes from my feature branch too.[m
+ [m
+ ## Introduction[m
+ [m
+[1mdiff --git a/humans.txt b/humans.txt[m
+[1mindex 3bd81ed..946b03b 100644[m
+[1m--- a/humans.txt[m
+[1m+++ b/humans.txt[m
+[36m@@ -7,6 +7,7 @@[m
+ [m
+ # THANKS[m
+ [m
+[32m+[m[32mAll my students!![m
+     <name>[m
+ [m
+ # TECHNOLOGY COLOPHON[m
